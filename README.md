@@ -57,15 +57,15 @@ InventoriToko-Kotlin-UMB adalah aplikasi Android berbasis Kotlin yang berfungsi 
  
 ---
 ## 📱Tampilan Login 
-![alt text](https://github.com/hawasih/Inventory-Kotlin-UMB/blob/master/Gambar/Login.png?raw=true)
+![alt text](https://github.com/hawasih/Inventori-Kotlin-UMB/blob/master/Gambar/Login.png?raw=true)
 ## 📲Tampilan Register
-![alt text](https://github.com/hawasih/Inventory-Kotlin-UMB/blob/master/Gambar/Register.png?raw=true)
+![alt text](https://github.com/hawasih/Inventori-Kotlin-UMB/blob/master/Gambar/Register.png?raw=true)
 ## 📦Tampilan List Barang/Tampilan Menu
-![alt text](https://github.com/hawasih/Inventory-Kotlin-UMB/blob/master/Gambar/Tampilan%20menu.png?raw=true)
+![alt text](https://github.com/hawasih/Inventori-Kotlin-UMB/blob/master/Gambar/Tampilan%20menu.png?raw=true)
 ## 🛒Tampilan Keranjang
-![alt text](https://github.com/hawasih/Inventory-Kotlin-UMB/blob/master/Gambar/Tampilan%20Keranjang.png?raw=true)
+![alt text](https://github.com/hawasih/Inventori-Kotlin-UMB/blob/master/Gambar/Tampilan%20Keranjang.png?raw=true)
 ## ✅Pembelian/Pembayaran Berhasil
-![alt text](https://github.com/hawasih/Inventory-Kotlin-UMB/blob/master/Gambar/Pembayaran%20berhasil.png?raw=true)
+![alt text](https://github.com/hawasih/Inventori-Kotlin-UMB/blob/master/Gambar/Pembayaran%20berhasil.png?raw=true)
 
 
 ## 🛠️ Tools & Teknologi
